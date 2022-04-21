@@ -1,0 +1,24 @@
+/* Body width 1170px solo per accentrare tag h4 */
+body {
+    width: 1170px;
+    margin: 0 auto;
+}
+
+.height-row {
+    height: 50px;
+    text-align: center;
+    color: white;
+    font-size: 10px;
+}
+
+.blue {
+    background-color: blue;
+}
+
+.pt-20 {
+    padding-top: 20px;
+}
+
+.border {
+    border: 1px solid white;
+}
